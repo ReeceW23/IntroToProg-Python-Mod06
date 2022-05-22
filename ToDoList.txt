@@ -1,0 +1,3 @@
+Clean,High
+Walk Dog,High
+Shop,Low
